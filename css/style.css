@@ -27,6 +27,7 @@ nav{
 }
 .logo img{
     height: 35px;
+    scale: 3;
 }
 nav .menu{
     display: flex;
@@ -362,6 +363,8 @@ nav .menu-btn{
     }
     .logo img{
         height: 30px;
+        scale: 2;
+
     }
     .search{
         width: 90%;
